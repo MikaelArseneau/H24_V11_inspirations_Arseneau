@@ -11,6 +11,6 @@ La fonderie Darling positionné au 745 Rue Ottawa à Montreal, présente en ce m
 ----
 ## Description
 <p align="left">
- <img align="left" width="500" height="500" src="media/plan_oeuvre.JPG">
+ <img align="left" width="500" height="300" src="media/plan_oeuvre.JPG">
 Phase Shiftinh Index realisé par Jeremy Shaw a traversé le monde commençant en France, au Centre Pompidou en 2020. Pour ensuite démenager en Allemgane, pour terminer son chemin au Canada à la Fonderie Darling de Montréal. 
 </p>
