@@ -3,6 +3,7 @@ La fonderie Darling positionné au 745 Rue Ottawa à Montreal, présente en ce m
 
 <img align="left" width="500" height="500" src="media/pamphlet_oeuvre.JPG">
 <img align="left" width="470" src="media/entree_fonderie.JPG">  
+
 - George Washington
-* John Adams
+*John Adams
 
