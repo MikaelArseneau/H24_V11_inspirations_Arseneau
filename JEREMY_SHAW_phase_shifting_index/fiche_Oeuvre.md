@@ -10,7 +10,7 @@ La fonderie Darling positionné au 745 Rue Ottawa à Montreal, présente en ce m
 
 ----
 ## Description
-<p align="right">
-ffffffffffffffffffffffffffffffffffffffffffffff
+<p align="left">
+
  
 </p>
