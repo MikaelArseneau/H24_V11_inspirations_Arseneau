@@ -17,14 +17,32 @@ Phase Shifting Index realisé par Jeremy Shaw a traversé le monde commençant e
  L'oeuvre consiste de 7 écrans éparpigné dans la pièce qui tombe du plafond de manière de voir toutes les écrans sur les bans dans l'oeuvre
 </p>
 
-</br>
-</br>
-</br>
-</br>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Composantes et éléments
  <p align="left">
- L'oeuvre consiste de 7 écrans éparpigné dans la pièce qui tombe du plafond de manière de voir toutes les écrans sur les bans dans l'oeuvre
+  <img align="left" width="200" height="200" src="media/installation_haut-parleur.JPG"></p>
+Pour prensenter l'oeuvre, la Fonderie Darling, a d'abord du mettre du tapis sur l'entierté du planché et de créer des bans sur le coté de l'entré ,aussi recouvert de tapis. Par la suite, ils ont installés des rails au plafond pour accroché les écrans ,qui tinnent avec fils de fer, et des haut-parleurs et projecteurs,qui eux tinnent avec des potences.
 </p>
 
