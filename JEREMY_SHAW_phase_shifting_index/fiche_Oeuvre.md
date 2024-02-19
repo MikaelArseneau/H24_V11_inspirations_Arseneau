@@ -14,7 +14,7 @@
 <p align="left"> <img align="left" width="320" height="300" src="media/oeuvre_installation.JPG">
 
 "Phase Shifting Index", réalisé par Jeremy Shaw, a parcouru le monde, débutant en France au Centre Pompidou en 2020. Ensuite, l'installation a déménagé en Allemagne avant de terminer son parcours au Canada, à la Fonderie Darling de Montréal.
-  <img align="left" width="500" height="300" src="media/plan_oeuvre.JPG"></p>
+  <img align="left" width="660" height="400" src="media/plan_oeuvre.JPG"></p>
  <p>
 
  ----
