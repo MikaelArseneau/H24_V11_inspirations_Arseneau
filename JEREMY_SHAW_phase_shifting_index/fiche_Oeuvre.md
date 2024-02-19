@@ -53,6 +53,6 @@ Pour prensenter l'oeuvre, la Fonderie Darling, a d'abord du mettre du tapis sur 
 
 ## Expérience vécue et appréciation
  <p align="left">
-Pour prensenter l'oeuvre, la Fonderie Darling, a d'abord du mettre du tapis sur l'entierté du planché et de créer des bans sur le coté de l'entré ,aussi recouvert de tapis. Par la suite, ils ont installés des rails au plafond pour accroché les écrans ,qui tinnent avec fils de fer, et des haut-parleurs et projecteurs,qui eux tinnent avec des potences. De plus, ils ont installé des lumière accroché directement sur les rails par-dessus les estrades.
+Lorsque vous entrez dans la pièce, vous remarquez immédiatement les 7 écrans, chacun présentant une vidéo différente de danse. Au fil du temps, les danses commencent à se ressembler de plus en plus et une musique de fond commence à se faire entendre. Lorsque la musique atteint son apogée, les 7 écrans clignotent en noir et blanc, tous présentant une danse commune. Ensuite, la musique change de rythme et les images commencent à subir des effets stroboscopiques de plus en plus intenses. Par la suite, tous les écrans affichent une sorte d'ADN différent sur chacun d'eux. Pour finir, les écrans s'éteignent tous simultanément, mettant fin à l'œuvre.
 </p>
 
