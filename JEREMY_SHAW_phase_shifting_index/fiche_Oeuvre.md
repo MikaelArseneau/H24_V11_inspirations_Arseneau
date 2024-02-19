@@ -11,34 +11,18 @@
 ----
 # Description
 <p align="left"> <img align="left" width="500" height="360" src="media/cartel.JPG">
-Phase Shifting Index realisé par Jeremy Shaw a traversé le monde commençant en France, au Centre Pompidou en 2020. Pour ensuite démenager en Allemagne, pour terminer son chemin au Canada à la Fonderie Darling de Montréal.
+
+"Phase Shifting Index", réalisé par Jeremy Shaw, a parcouru le monde, débutant en France au Centre Pompidou en 2020. Ensuite, l'installation a déménagé en Allemagne avant de terminer son parcours au Canada, à la Fonderie Darling de Montréal.
   <img align="left" width="500" height="300" src="media/plan_oeuvre.JPG"></p>
  <p>
- L'oeuvre consiste de 7 écrans éparpigné dans la pièce qui tombe du plafond de manière de voir toutes les écrans sur les bans dans l'oeuvre
+ 
+L'œuvre consiste en 7 écrans dispersés dans la pièce, suspendus du plafond de manière à ce que tous les écrans soient visibles depuis les bancs dans l'installation.
 </p>
 
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 
 ## Composantes et éléments
  <p align="left">
@@ -46,7 +30,7 @@ Phase Shifting Index realisé par Jeremy Shaw a traversé le monde commençant e
    <img align="left" width="320" height="300" src="media/installation_projecteur.JPG">
     <img align="left" width="320" height="300" src="media/installation_lumiere.JPG">
   <img align="left" width="320" height="300" src="media/installation_estarde.JPG">
-Pour prensenter l'oeuvre, la Fonderie Darling, a d'abord du mettre du tapis sur l'entierté du planché et de créer des bans sur le coté de l'entré ,aussi recouvert de tapis. Par la suite, ils ont installés des rails au plafond pour accroché les écrans ,qui tinnent avec fils de fer, et des haut-parleurs et projecteurs,qui eux tinnent avec des potences. De plus, ils ont installé des lumière accroché directement sur les rails par-dessus les estrades.
+Pour présenter l'œuvre, la Fonderie Darling a d'abord dû recouvrir l'intégralité du plancher de tapis et créer des bancs sur le côté de l'entrée, également recouverts de tapis. Ensuite, ils ont installé des rails au plafond pour accrocher les écrans, maintenus avec des fils de fer, ainsi que des haut-parleurs et des projecteurs, maintenus avec des potences. De plus, ils ont fixé des lumières directement sur les rails au-dessus des estrades.
 </p>
 
 ----
