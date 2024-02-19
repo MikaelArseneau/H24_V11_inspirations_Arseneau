@@ -9,11 +9,22 @@
  
 
 ----
-## Description
+# Description
 <p align="left"> <img align="left" width="500" height="360" src="media/cartel.JPG">
 Phase Shifting Index realisé par Jeremy Shaw a traversé le monde commençant en France, au Centre Pompidou en 2020. Pour ensuite démenager en Allemagne, pour terminer son chemin au Canada à la Fonderie Darling de Montréal.
   <img align="left" width="500" height="300" src="media/plan_oeuvre.JPG"></p>
- # Mise en place
  <p>
- L'oeuvre consiste de 7 écrans éparpigné dans la pièce qui tombe du plafond de manière de voir toutes les écrans sur le ban.
+ L'oeuvre consiste de 7 écrans éparpigné dans la pièce qui tombe du plafond de manière de voir toutes les écrans sur les bans dans l'oeuvre
 </p>
+
+</br>
+</br>
+</br>
+</br>
+
+
+## Composantes et éléments
+ <p align="left">
+ L'oeuvre consiste de 7 écrans éparpigné dans la pièce qui tombe du plafond de manière de voir toutes les écrans sur les bans dans l'oeuvre
+</p>
+
