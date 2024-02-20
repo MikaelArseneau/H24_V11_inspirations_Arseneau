@@ -20,7 +20,7 @@
  ----
 
  
-L'œuvre consiste en 7 écrans dispersés dans la pièce, suspendus du plafond de manière à ce que tous les écrans soient visibles depuis les bancs dans l'installation. 
+L'œuvre consiste de 7 écrans dispersés dans la pièce, suspendus du plafond de manière à ce que tous les écrans soient visibles depuis les bancs dans l'installation. 
 Grâce à l'utilisation du projecteur et à la conception sonore, l'œuvre offre une expérience immersive.
 </p>
 
