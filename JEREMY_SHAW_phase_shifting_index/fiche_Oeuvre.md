@@ -21,7 +21,7 @@
 
  
 L'œuvre consiste de 7 écrans dispersés dans la pièce, suspendus du plafond de manière à ce que tous les écrans soient visibles depuis les bancs. 
-Grâce à l'utilisation du projecteur et à la conception sonore, l'œuvre offre une expérience immersive.
+Grâce à l'utilisation des projecteurs et à la conception sonore, l'œuvre offre une expérience immersive.
 </p>
 
 
