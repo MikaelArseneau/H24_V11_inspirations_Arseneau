@@ -26,5 +26,5 @@ En conclusion, j'ai globalement apprécié la conférence. Certes, je trouvais q
 </p>
 
    <br><br>
-   Oeuvre : RAFAEL LOZANO-HEMMER [Translation Stream](https://www.lozano-hemmer.com/translation_stream.php)
+   <p align:right>Oeuvre : RAFAEL LOZANO-HEMMER [Translation Stream](https://www.lozano-hemmer.com/translation_stream.php)</p>
 
