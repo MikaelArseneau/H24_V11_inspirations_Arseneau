@@ -16,6 +16,7 @@ Dans la première partie, le focus était mis sur la documentation d'une œuvre 
    <br>   <br>   <br>   <br> 
   <hr>
 Dans la deuxième partie, elle abordait les défis rencontrés lors de la production d'une œuvre dans le désert. Malgré ces défis, Jade a souligné que l'œuvre a été un grand succès.
+   <img align="right" width="300" height="250" src="media/pamphlet_oeuvre.JPG">
 </p><p>
   <hr>
 En conclusion, j'ai globalement apprécié la conférence. Certes, je trouvais que parfois nous insistions trop longtemps sur certains sujets, ce qui pouvait parfois me faire perdre un peu d'intérêt. Malgré cela, je tiens à souligner les qualités de Jade en tant que conférencière, notamment son humour et sa passion pour le sujet."
