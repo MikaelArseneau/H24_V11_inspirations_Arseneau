@@ -15,14 +15,12 @@ Selon mon humble avis, l'intention primaire des étudiants était la résurgence
 
 # Effet-Papillon
 Effet-Papillon est une installation intereactive immersive conçu par 6 étudiants
-
 - Raphaël Dumont
 - Alexis Bolduc
 - William Morel
 - Alexia (Ryan) Papanikolaou
 - Viktor Zhuravlev
 - Jasmine Lapierre
-
   <p align="left"> <img align="right" width="320" height="300" src="media/cartel.JPG">
  À mon avis, le thème principal de l'oeuvre était d'explorer un cycle de vie d'un vie en effectuant des tâche simples. Ce qui est en lien avec le sujet de Crescentia. Lors du visonnement des vidéos descriptives, je fus confu et désinterresé de leurs projets. Lors de l'avant première, mes sentiments accrus en observant les nombreux problèmes techniques de l'oeuvre. Néanmoins, lors de l'ouverture, les problèmes ont été réglé et l'oeuvre était beaucoup mieux. Pour réalisé le projet, les étudiants on du utiliser leurs connaisances acquis en vidéo,audio et en traitement audiovisuel. L'utilisation d
 
@@ -36,6 +34,8 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
  - Camélie Laprise
  - Ghita Alaoui
  - Vincent Desjardins
+
+À mes yeux, Sonalux avait pour but de démontrer la croissance en ayant le pouvoir sur le volume, la vitesse et le tempo. Donc fait partis du thème de la croissance.
 
 
    
