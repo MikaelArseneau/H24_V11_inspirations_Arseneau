@@ -35,7 +35,7 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
  - Ghita Alaoui
  - Vincent Desjardins
 
-À mes yeux, Sonalux avait pour but de démontrer la croissance en ayant le pouvoir sur le volume, la vitesse et le tempo. Donc fait partis du thème de la croissance.
+À mes yeux, Sonalux avait pour but de démontrer la croissance en ayant le pouvoir sur le volume, la vitesse et le tempo. Donc fait partis du thème de la croissance. Lors du visonnement des vidéos, j'ai comrpis leur idées, mais lors de l'avant première, le projet n'était totalement finis donc le projet semblait 
 
 
    
