@@ -16,7 +16,7 @@ Kigo est une oeuvre qui amène les participants a joué un jeux intéractif oû 
 ## Composantes
 L'oeuvre est réalisé grâce un kinect qui capte les mouvements des joueurs dans une zone de jeu et qui insuite projette le jeux sur le mur devant le joueur grâce a un projecteur.  
 
-|efs|fes|
+| fsfes | fefes |
 
 
 
