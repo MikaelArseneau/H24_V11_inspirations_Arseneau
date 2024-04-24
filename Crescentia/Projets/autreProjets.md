@@ -22,7 +22,7 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
 - Viktor Zhuravlev
 - Jasmine Lapierre
   <p align="left"> <img align="right" width="320" height="300" src="media/cartel.JPG">
- À mon avis, le thème principal de l'oeuvre était d'explorer un cycle de vie d'un vie en effectuant des tâche simples. Ce qui est en lien avec le sujet de Crescentia. Lors du visonnement des vidéos descriptives, je fus confu et désinterresé de leurs projets. Lors de l'avant première, mes sentiments accrus en observant les nombreux problèmes techniques de l'oeuvre. Néanmoins, lors de l'ouverture, les problèmes ont été réglé et l'oeuvre était beaucoup mieux. Pour réalisé le projet, les étudiants on du utiliser leurs connaisances acquis en vidéo,audio et en traitement audiovisuel. L'utilisation d
+ À mon avis, le thème principal de l'oeuvre était d'explorer un cycle de vie d'un vie d'un pommier en effectuant des tâche simples physiques. Ce qui est en lien avec le sujet de Crescentia. Lors du visonnement des vidéos descriptives, je fus confu et désinterresé de leurs projets. Lors de l'avant première, mes sentiments accrus en observant les nombreux problèmes techniques de l'oeuvre. Néanmoins, lors de l'ouverture, les problèmes ont été réglé et l'oeuvre était beaucoup mieux. Pour réalisé le projet, les étudiants on du utiliser leurs connaisances acquis en vidéo,audio et en traitement audiovisuel. L'utilisation d
 
 
 
