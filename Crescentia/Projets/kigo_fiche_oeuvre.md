@@ -11,7 +11,7 @@ L'oeuvre a été conĉu par 5 étudiants du programme de la technique d'intégra
 - Nicolas St-Martin
 - Antoine Dion
 
-Kigo est une oeuvre qui amène les participants a joué un jeux intéractif oû le joueur doit éviter des obstacles dans un univers inspiré d'un style néon rétro.
+Kigo est une oeuvre qui amène les participants a joué un jeux intéractif oû le joueur doit éviter des obstacles dans un univers inspiré d'un style néon rétro. Ce qui fait en sorte que l'oeuvre est une installation intéractive.
 
 
 
