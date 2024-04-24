@@ -12,7 +12,7 @@ Lors de la conférence du mardi 16 avril, Jade Séguéla, régistraire de l'arti
    <hr>
 Dans la première partie, le focus était mis sur la documentation d'une œuvre lors de son envoi. Cette tâche est effectuée par Jade de manière indépendante. Celle-ci décrivait les avantages et les bénéfices de son travail.
 <hr>
-</p><p>
+</p><p align:left>
    <br>   <br>   <br>   <br> 
   <hr>
 Dans la deuxième partie, elle abordait les défis rencontrés lors de la production d'une œuvre dans le désert. Malgré ces défis, Jade a souligné que l'œuvre a été un grand succès.
