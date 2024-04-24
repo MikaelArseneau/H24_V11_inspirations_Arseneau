@@ -16,7 +16,7 @@ Kigo est une oeuvre qui amène les participants a joué un jeux intéractif oû 
 ## Composantes
 L'oeuvre est réalisé grâce un kinect qui capte les mouvements des joueurs dans une zone de jeu et qui insuite projette le jeux sur le mur devant le joueur grâce a un projecteur.  L'équipe a du apporter la kineck, le projecteur, l'ordinateur pour le logiciel, les hauts-parleurs et tous les fils. Ils ont ensuite accroché le projecteur et les hauts-parleurs sur les rails au plafond déjâ inclu dans le grand studio.
 
-| Composante          |
+| Composante         |z |
 | ------------- | ------------- |
 | Cell 1, Row 1 | Cell 2, Row 1 |
 | Cell 1, Row 2 | Cell 1, Row 2 |
