@@ -10,7 +10,7 @@ Lors de la conférence du mardi 16 avril, Jade Séguéla, régistraire de l'arti
 
 </p><p align:left>
    <hr>
-Dans la première partie, le focus était mis sur la documentation d'une œuvre lors de son envoi. Cette tâche est effectuée par Jade de manière indépendante. Celle-ci décrivait les avantages et les bénéfices de son travail.
+Dans la première partie, le focus était mis sur les étapes de documentation d'une œuvre lors de son envoi. Cette tâche est effectuée par Jade de manière indépendante. Celle-ci décrivait les avantages et les bénéfices de son travail.
 </p>
 <p align:left>
     
