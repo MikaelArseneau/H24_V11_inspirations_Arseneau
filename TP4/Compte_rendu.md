@@ -24,4 +24,6 @@ Dans la deuxième partie, elle abordait les défis rencontrés lors de la produc
   <hr>
 En conclusion, j'ai globalement apprécié la conférence. Certes, je trouvais que parfois nous insistions trop longtemps sur certains sujets, ce qui pouvait parfois me faire perdre un peu d'intérêt. Malgré cela, je tiens à souligner les qualités de Jade en tant que conférencière, notamment son humour et sa passion pour le sujet."
 </p>
-<p text-align:"right">few</p>
+
+   <br><br>
+
