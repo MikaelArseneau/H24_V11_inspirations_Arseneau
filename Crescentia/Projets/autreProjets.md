@@ -3,12 +3,15 @@ Crescentia, une exposition présentant les projets finaux des étudiants du prog
 # Rhizomatique
 Rhizomatique est une oeuvre intéractive conçu par 4 étudiants.
 - Jolyanne Desjardins
--  MaÏka Désy
--  Laurie Houde
--  Felix Testa Radovanovic
+- MaÏka Désy
+- Laurie Houde
+- Felix Testa Radovanovic
 
 <p align="left"> <img align="left" width="320" height="300" src="media/cartel.JPG">
 Selon mon humble avis, l'intention primaire des étudiants était la résurgence de souvenirs lointains. Ce qui répondrait à l'attente merveilleusement. En observant les vidéos descriptives du projets, mes sentiments initiales étaient l'incompréhension et l'incertitude. Lors de l'avant première, je fut étonné et plaisé de leur travail. Cependant, lors de l'ouverture, mes sentiemnts ont accrus et j'était époustouflé du résultat finale. Selon moi, les étudiants ont utilisés leurs connaisnaces acquises en audio, en programmation et en vidéo. L'utilisation de la kinect pour détecté les mains et igénieux me donne des idées pour mes projets futurs. À mon avis, Rhizomatique est positionné troisième dans les oeuvres de Crescentia.
+
+
+<br><br><br><br><br>
 
 # Effet-Papillon
 Effet-Paipillon est une installation intereactive immersive conçu par 6 étudiants
@@ -19,6 +22,9 @@ Effet-Paipillon est une installation intereactive immersive conçu par 6 étudia
 - Alexia (Ryan) Papanikolaou
 - Viktor Zhuravlev
 - Jasmine Lapierre
+
+  <p align="left"> <img align="right" width="320" height="300" src="media/cartel.JPG">
+ À mon avis, le thème principal de l'oeuvre était d'explorer un cycle de vie d'un vie en effectuant des tâche simples. Ce qui est en lien avec le sujet de Crescentia
 
 
    
