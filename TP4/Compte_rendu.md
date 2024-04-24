@@ -6,7 +6,7 @@
 
 <p align:left>
 Lors de la conférence du mardi 16 avril, Jade Séguéla, régistraire de l'artiste Rafael Lozano Hemmer, était la porte-parole. Au début, Jade décrivait son environnement de travail, y compris son rôle dans la compagnie et les différentes équipes qui l'entourent. Dans la compagnie Antimodular, Rafael trouve une idée et la partage ensuite avec les équipes pour les aider à la réaliser. La conférence était divisée en trois parties distinctes. La première portait sur la description de la compagnie, tandis que les deux suivante visaient deux études de cas différentes.
-<img align="right" width="400" height="400" src="media/oeuvre_rafael.jpg">
+<img align="right" width="400" height="350" src="media/oeuvre_rafael.jpg">
 
 </p><p align:left>
    <hr>
