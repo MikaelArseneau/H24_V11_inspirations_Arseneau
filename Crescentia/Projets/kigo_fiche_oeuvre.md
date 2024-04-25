@@ -13,7 +13,7 @@ L'oeuvre a été conĉu par 5 étudiants du programme de la technique d'intégra
 
 Kigo est une oeuvre qui amène les participants a joué un jeux intéractif oû le joueur doit éviter des obstacles dans un univers inspiré d'un style néon rétro. Ce qui fait en sorte que l'oeuvre est une installation intéractive. 
 
-| Descriptions         |Photos |
+| Description         |Photo |
 | ------------- | ------------- |
 | L'oeuvre est placé sur l'un des long murs du grand studio | <img  width="500" height="350" src="../media/plan_kigo.png"> |
 
