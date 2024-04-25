@@ -11,14 +11,14 @@ L'oeuvre a été conĉu par 5 étudiants du programme de la technique d'intégra
 - Nicolas St-Martin
 - Antoine Dion
 
-Kigo est une oeuvre qui amène les participants a joué un jeux intéractif oû le joueur doit éviter des obstacles dans un univers inspiré d'un style néon rétro. Ce qui fait en sorte que l'oeuvre est une installation intéractive. 
+Kigo est une œuvre interactive qui invite les participants à s'engager dans un jeu interactif où le joueur doit naviguer à travers des obstacles dans un univers inspiré d'un style néon rétro. Cette conception en fait une installation interactive captivante
 
 | Description         |Photo |
 | ------------- | ------------- |
 | L'oeuvre est placé sur l'un des long murs du grand studio | <img  width="500" height="350" src="../media/plan_kigo.png"> |
 
 ## Composantes
-L'oeuvre est réalisé grâce un kinect qui capte les mouvements des joueurs dans une zone de jeu et qui insuite projette le jeux sur le mur devant le joueur grâce a un projecteur.  L'équipe a du apporter la Kinect , le projecteur, l'ordinateur pour le logiciel, les hauts-parleurs et tous les fils. Ils ont ensuite accroché le projecteur et les hauts-parleurs sur les rails au plafond déjâ inclu dans le grand studio.
+L'œuvre est mise en œuvre grâce à un Kinect, qui capte les mouvements des joueurs dans une zone de jeu, puis projette le jeu sur le mur devant le joueur à l'aide d'un projecteur. L'équipe a dû installer le Kinect, le projecteur, un ordinateur pour le logiciel, des haut-parleurs ainsi que tous les câbles nécessaires. Ensuite, ils ont fixé le projecteur et les haut-parleurs sur les rails déjà présents au plafond du grand studio.
 
 | Composante         |Photos |
 | ------------- | ------------- |
