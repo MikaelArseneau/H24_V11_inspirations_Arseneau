@@ -32,7 +32,7 @@ L'oeuvre est réalisé grâce un kinect qui capte les mouvements des joueurs dan
 
 Durant ma première visite, j'ai été agréablement surpris par le projet et j'ai immédiatement été séduit par l'idée du jeu. J'ai eu l'occasion d'échanger avec les étudiants responsables du développement, et j'ai partagé avec eux mes suggestions visant à rendre le jeu plus captivant. Lors de ma deuxième visite, j'ai constaté avec satisfaction que mes requêtes avaient été prises en compte, ce qui a contribué à rendre l'expérience de jeu encore plus enrichissante. Ce qui m'a particulièrement plu, c'est que contrairement aux autres oeuvres du Crescentia, Kigo se distingue par sa variété d'obstacles et d'événements, ce qui le rend facile à rejouer sans jamais devenir redondant. Personnellement, je ne modifierais rien et je tiens à conserver l'intégralité des idées pour mes projets futures.
 
- [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html)
+ Lien vers le site : [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html)
 
 
 
