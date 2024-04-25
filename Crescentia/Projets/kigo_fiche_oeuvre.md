@@ -22,11 +22,10 @@ L'oeuvre est réalisé grâce un kinect qui capte les mouvements des joueurs dan
 
 | Composante         |Photos |
 | ------------- | ------------- |
-| Hauts-parleur | Cell 2, Row 1 |
-| Projecteur | Cell 1, Row 2 |
-| Kinect  | Cell 1, Row 2 |
-| Ordinateur  | Cell 1, Row 2 |
-| Rail au plafond | Cell 1, Row 2 |
+| Projecteur et haut-parleur | <img  width="500" height="350" src="../media/haut_projecteur.jpg"> |
+| Kinect  |<img  width="500" height="350" src="../media/kinect.jpg"> |
+| Ordinateur  | <img  width="500" height="350" src="../media/ordinateur_kigo.jpg"> |
+| Rail au plafond | <img  width="500" height="350" src="../media/rail_kigo.jpg"> |
 
 ## Expérience vécu
 
