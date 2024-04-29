@@ -1,7 +1,7 @@
 # Matière première
 
 Matière première est une oeuvre conĉu par Yan Breuleux, un professeur agrégé à l'École NAD-UQAC UQAC (École des arts numériques, de l'animation et du design). L'oeuvre  été présenté au Galerie Elektra (5445 de Gaspé Avenue) du 18 janvier au 2 mars 2024.
-
+<img align="left" width="500" height="500" src="media/photo_matiere.jpg">
 - oeuvre temporaire
 - visité le 1 mars 2024
 
