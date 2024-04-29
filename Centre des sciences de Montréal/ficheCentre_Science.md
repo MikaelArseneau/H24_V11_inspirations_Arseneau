@@ -8,7 +8,7 @@ Dans l'exposition des centres des sciences, réalisé par une grandes équipes d
  <p align="left"> <img align="left" width="400" height="375" src="media/personne1_science.jpg">
   <p align="right"> <img align="left" width="400" height="375" src="media/personne2_science.jpg">
   
-   <br><br><br><br><br><br><br><br><br><br><br><br>
+   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    
 - oeuvre temporaire
 - visité le 17 avril 2024
