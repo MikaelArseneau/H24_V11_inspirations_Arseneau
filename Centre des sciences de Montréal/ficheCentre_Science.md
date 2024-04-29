@@ -6,8 +6,9 @@
 
 Dans l'exposition des centres des sciences, réalisé par une grandes équipes d'ingénieurs, il y avait plusieurs oeuvres, mais une capte mon attention. Une oeuvre qui s'intitule "Qui sème le vent... récolte de l'énergie".Une ouevre qui demontre la puissance des vents aux participants de façon intéractive.
  <p align="left"> <img align="left" width="400" height="375" src="media/personne1_science.jpg">
-  <p align="right"> <img align="left" width="400" height="375" src="media/personne2_science.jpg"
-
+  <p align="right"> <img align="left" width="400" height="375" src="media/personne2_science.jpg">
+  
+   <br><br><br><br><br><br><br><br>
 - oeuvre temporaire
 - visité le 17 avril 2024
 
