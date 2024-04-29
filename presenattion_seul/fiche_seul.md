@@ -11,13 +11,13 @@ Matière première est une oeuvre conĉu par Yan Breuleux, un professeur agrég�
 
  # Composantes et éléements
 
- Pour présenter l'oeuvre la Galerie Elektra, a selement disui lui donner une chambre  assez grande pour l'oeuvre dans le batiment. Du côté de Yan Breleux, celui ci a apporter les télévisions et des genres de mur noir qui entoure la pièce pour suspendre les télévisions. la pièce ne compronais aucun haut-parleurs. Dans la pièce reienn'était accroché au planché. Il y avait aussi un minuscule divant en plain centre de la pièce pour regarder les oeurves. Il y le côté gauche qui a 1 4 télévisons, le devant et le droit en on 1 chaques.
+ Pour présenter l'œuvre à la Galerie Elektra, un espace suffisamment spacieux dans le bâtiment a été réservé exclusivement pour elle. Yan Breleux, de son côté, a pris en charge l'installation des télévisions et a conçu des structures murales noires pour encadrer la pièce et suspendre les écrans. La pièce ne comporte aucun haut-parleur, et rien n'est fixé au sol. En son centre, trône un petit canapé, invitant les spectateurs à s'asseoir et à contempler les œuvres. Les télévisions sont disposées de manière à ce que quatre soient du côté gauche, une devant et une à droite.
 
  # Epérience vécue
 
- Lors que vous rentrez dans l'oeuvres, vous constaté directement les 6 écrans grâce au contarste des murs noirs. Les chnagements des oeuvres sont presque impossible a percevoir, mais lorsque vous vous avancé, des changements extrement minimes apparaisent dans les oeuvres.
+Quand vous entrez dans l'œuvre, vous êtes immédiatement frappé par les six écrans, mis en évidence par le contraste avec les murs noirs. Les changements dans les œuvres sont presque imperceptibles au début, mais dès que vous vous approchez, vous commencez à remarquer des modifications extrêmement subtiles.
 
 ----
-fe
- 
+
+Personnellement, je n'ai pas été pleinement satisfait par l'œuvre. Tout d'abord, le manque d'interactivité la rend rapidement ennuyeuse à mes yeux. Ensuite, les longues durées des vidéos, variant entre 4 et 12 heures, rendent difficile le fait de rester dans une petite pièce pendant de si longues périodes. À mon sens, une dimension interactive aurait pu rendre l'œuvre plus captivante en permettant aux spectateurs de modifier la durée de chaque vidéo, créant ainsi une expérience plus engageante et divertissante.
   
