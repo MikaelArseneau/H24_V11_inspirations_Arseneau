@@ -11,6 +11,6 @@ Matière première est une oeuvre conĉu par Yan Breuleux, un professeur agrég�
 
  # Composantes et éléements
 
- Pour présenter l'oeuvre la Galerie Elektra, a selement dis lui une chambre  assez grande pour l'oeuvre dans le batiment. Du côté de Yan Breleux, celui ci a apporter les télévisions et des genres de mur noir qui entoure la pièce pour suspendre les télévisions. 
+ Pour présenter l'oeuvre la Galerie Elektra, a selement disui lui donner une chambre  assez grande pour l'oeuvre dans le batiment. Du côté de Yan Breleux, celui ci a apporter les télévisions et des genres de mur noir qui entoure la pièce pour suspendre les télévisions. la pièce ne compronais aucun haut-parleurs. 
  
   
