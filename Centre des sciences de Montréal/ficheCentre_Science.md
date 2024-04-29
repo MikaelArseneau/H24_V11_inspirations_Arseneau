@@ -19,7 +19,6 @@ L'œuvre comprend une plaque de pression qui détecte la présence du participan
 | Plaque de pression  | <img  width="400" height="350" src="../media/plaque_science.jpg"> |
 | Projection | <img  width="400" height="350" src="../media/projection_science.jpg"> |
 
-
 ## Expérience vécue et appréciation
 
 Lorsque vous vous approchez du mur, vous remarquez immédiatement les traces de pas, incitant le participant à se positionner dessus. Au premier regard, le ventilateur passe souvent inaperçu, mais dès que vous marchez sur la plaque, il s'active, attirant votre attention et vous faisant réaliser que sa puissance varie en fonction du niveau affiché devant vous.
