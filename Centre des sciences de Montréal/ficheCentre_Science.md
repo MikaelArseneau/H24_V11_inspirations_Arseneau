@@ -15,9 +15,9 @@ L'œuvre comprend une plaque de pression qui détecte la présence du participan
 | Composante         |Photos |
 | ------------- | ------------- |
 | Projecteur  | <img  width="400" height="300" src="./media/projecteur_science.jpg"> |
-| ventilateur  |<img  width="400" height="350" src="../media/ventillateur_science.jpg"> |
-| Plaque de pression  | <img  width="400" height="350" src="../media/plaque_science.jpg"> |
-| Projection | <img  width="400" height="350" src="../media/projection_science.jpg"> |
+| ventilateur  |<img  width="400" height="350" src="./media/ventillateur_science.jpg"> |
+| Plaque de pression  | <img  width="400" height="350" src="./media/plaque_science.jpg"> |
+| Projection | <img  width="400" height="350" src="./media/projection_science.jpg"> |
 
 ## Expérience vécue et appréciation
 
