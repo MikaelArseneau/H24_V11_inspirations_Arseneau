@@ -14,10 +14,10 @@ L'œuvre comprend une plaque de pression qui détecte la présence du participan
 
 | Composante         |Photos |
 | ------------- | ------------- |
-| Projecteur et haut-parleur | <img  width="400" height="300" src="../media/haut_projecteur_kigo.jpg"> |
-| Kinect  |<img  width="400" height="350" src="../media/kinect_kigo.jpg"> |
-| Ordinateur  | <img  width="400" height="350" src="../media/ordinateur_kigo.jpg"> |
-| Rail au plafond | <img  width="400" height="350" src="../media/rail_kigo.jpg"> |
+| Projecteur  | <img  width="400" height="300" src="../media/projecteur_science.jpg"> |
+| ventilateur  |<img  width="400" height="350" src="../media/ventillateur_science.jpg"> |
+| Plaque de pression  | <img  width="400" height="350" src="../media/plaque_science.jpg"> |
+| Projection | <img  width="400" height="350" src="../media/projection_science.jpg"> |
 
 
 ## Expérience vécue et appréciation
