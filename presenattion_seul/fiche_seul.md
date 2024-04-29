@@ -16,8 +16,8 @@ Matière première est une oeuvre conĉu par Yan Breuleux, un professeur agrég�
  # Composantes et éléments
 
  Pour présenter l'œuvre à la Galerie Elektra, un espace suffisamment spacieux dans le bâtiment a été réservé exclusivement pour elle. Yan Breleux, de son côté, a pris en charge l'installation des télévisions et a conçu des structures murales noires pour encadrer la pièce et suspendre les écrans. La pièce ne comporte aucun haut-parleur, et rien n'est fixé au sol. En son centre, trône un petit canapé, invitant les spectateurs à s'asseoir et à contempler les œuvres. Les télévisions sont disposées de manière à ce que quatre soient du côté gauche, une devant et une à droite.
- <p align="left"> <img align="left" width="320" height="300" src="media/television_matiere.jpg">
-  <p align="right"> <img align="left" width="320" height="300" src="media/television2_matiere.jpg">
+ <p align="left"> <img align="left" width="400" height="375" src="media/television_matiere.jpg">
+  <p align="right"> <img align="left" width="400" height="375" src="media/television2_matiere.jpg">
 
 
 
