@@ -4,4 +4,4 @@
 
 # Description
 
-Dans l'exposition des centres des sciences, réalisé par une grandes équipes d'ingénieurs, il y avait plusieurs oeuvres, mais une capte mon attention. 
+Dans l'exposition des centres des sciences, réalisé par une grandes équipes d'ingénieurs, il y avait plusieurs oeuvres, mais une capte mon attention. Une oeuvre qui s'intitule Qui sème le vent... récolte de l'énergie. 
