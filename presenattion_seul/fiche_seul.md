@@ -11,6 +11,8 @@ Matière première est une oeuvre conĉu par Yan Breuleux, un professeur agrég�
 
  Matière Première est une installation artistique composée de six télévisions diffusant des autoportraits de Yan Breleux, intégrés dans des environnements virtuels. Chaque œuvre animée a une durée variable, comprise entre 4 et 12 heures. En raison de la nature passive de la visualisation télévisuelle et de l'absence d'interaction, cette installation invite à la contemplation.
 
+ <br><br><br><br><br><br>
+
  # Composantes et éléements
 
  Pour présenter l'œuvre à la Galerie Elektra, un espace suffisamment spacieux dans le bâtiment a été réservé exclusivement pour elle. Yan Breleux, de son côté, a pris en charge l'installation des télévisions et a conçu des structures murales noires pour encadrer la pièce et suspendre les écrans. La pièce ne comporte aucun haut-parleur, et rien n'est fixé au sol. En son centre, trône un petit canapé, invitant les spectateurs à s'asseoir et à contempler les œuvres. Les télévisions sont disposées de manière à ce que quatre soient du côté gauche, une devant et une à droite.
