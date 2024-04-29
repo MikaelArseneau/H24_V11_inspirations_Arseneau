@@ -7,7 +7,7 @@ Matière première est une oeuvre conĉu par Yan Breuleux, un professeur agrég�
 
   # Description
 
-  <p align="left"> <img align="left" width="320" height="300" src="media/cartel_matiere.JPG">
+  <p align="left"> <img align="left" width="320" height="300" src="media/cartel_matiere.jpg">
 
  Matière Première est une installation artistique composée de six télévisions diffusant des autoportraits de Yan Breleux, intégrés dans des environnements virtuels. Chaque œuvre animée a une durée variable, comprise entre 4 et 12 heures. En raison de la nature passive de la visualisation télévisuelle et de l'absence d'interaction, cette installation invite à la contemplation.
 
