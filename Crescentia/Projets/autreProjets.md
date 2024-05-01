@@ -67,7 +67,9 @@ Canevas Cosmique est une installation intéractive conçu par 5 étudiants
 <p align="left"> <img align="left" width="300" height="200" src="../media/dessin_cosmos.png">
 <p align="left"> <img align="left" width="300" height="200" src="../media/oeuvre_cosmos.jpg">
 
-   
+ Lien vers le site : [Canevas Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
+
+
 
 
 
