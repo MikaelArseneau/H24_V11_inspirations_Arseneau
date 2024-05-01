@@ -13,7 +13,7 @@ Selon mon humble avis, l'intention primaire des étudiants était la résurgence
 <p align="left"> <img align="left" width="300" height="200" src="../media/dessin_Rhizomatique.png">
 <p align="left"> <img align="left" width="300" height="200" src="../media/oeuvre_rhizomatique.jpg">
 
- Lien vers le site : [Rhiszomatique] ([https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html])
+ Lien vers le site : [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
 
 # Effet-Papillon
 Effet-Papillon est une installation intereactive immersive conçu par 6 étudiants
