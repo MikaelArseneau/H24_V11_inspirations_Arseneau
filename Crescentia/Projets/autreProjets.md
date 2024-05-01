@@ -48,6 +48,9 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
   
 <p align="left"> <img align="left" width="300" height="200" src="../media/dessin_sonalux.png">
 <p align="left"> <img align="left" width="300" height="200" src="../media/oeuvre_sonalux.jpg">
+
+  Lien vers le site : [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
+ 
 <br><br><br><br><br><br><br><br><br>
 
 # Canevas Cosmique
