@@ -69,6 +69,10 @@ Canevas Cosmique est une installation intéractive conçu par 5 étudiants
 
  Lien vers le site : [Canevas Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
 
+ ## Source 
+- Photographe : Mikael Arseneau
+- Lieu : [Montmorency](https://www.cmontmorency.qc.ca/)
+
 
 
 
