@@ -2,6 +2,8 @@
 
 ### Le centre des sciences positionnée au 2 Rue de la Commune O, Montréal, présente l'exposition explore.
 
+<p align="left"> <img align="left" width="400" height="375" src="media/devant_centre.jpg">
+
 # Description
 
 Dans l'exposition des centres des sciences, réalisé par une grandes équipes d'ingénieurs, il y avait plusieurs oeuvres, mais une capte mon attention. Une oeuvre qui s'intitule "Qui sème le vent... récolte de l'énergie".Une ouevre qui demontre la puissance des vents aux participants de façon intéractive.
