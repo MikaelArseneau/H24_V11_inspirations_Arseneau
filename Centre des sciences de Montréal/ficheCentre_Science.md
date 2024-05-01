@@ -1,4 +1,4 @@
-# Le vent
+# Qui sème le vent... récolte de l'énergie
 
 ### Le centre des sciences positionnée au 2 Rue de la Commune O, Montréal, présente l'exposition explore.
 
