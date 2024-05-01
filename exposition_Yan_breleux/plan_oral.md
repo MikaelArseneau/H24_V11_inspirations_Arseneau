@@ -18,7 +18,7 @@
 - composante <br><br><br><br><br><br>
 - expérience vécue<br><br><br><br><br><br>
 - Appréciation <br><br><br><br><br><br>
--liens <br><br><br><br><br><br>
+- liens <br><br><br><br><br><br>
 
 # Conclusion
 - Rappel des compoantes et de la descriptions<br><br><br><br><br><br>
