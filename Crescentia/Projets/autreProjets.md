@@ -22,8 +22,7 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
 - Viktor Zhuravlev
 - Jasmine Lapierre
   <p align="left"> <img align="right" width="320" height="200" src="media/cartel.JPG">
- À mon avis, le thème principal de l'oeuvre était d'explorer un cycle de vie d'un vie d'un pommier en effectuant des tâche simples physiques. Ce qui est en lien avec le sujet de Crescentia. Lors du visonnement des vidéos descriptives, je fus confu et désinterresé de leurs projets. Lors de l'avant première, mes sentiments accrus en observant les nombreux problèmes techniques de l'oeuvre. Néanmoins, lors de l'ouverture, les problèmes ont été réglé et l'oeuvre était beaucoup mieux. Pour réalisé le projet, les étudiants on du utiliser leurs connaisances acquis en vidéo,audio et en traitement audiovisuel. L'utilisation d
-
+ À mon avis, le thème principal de l'œuvre était d'explorer le cycle de vie d'un pommier en effectuant des tâches physiques simples, en lien avec le sujet de Crescentia. Lorsque j'ai visionné les vidéos descriptives, j'ai été confus et désintéressé par leurs propositions. Lors de l'avant-première, mes sentiments ont été renforcés en observant les nombreux problèmes techniques de l'œuvre. Néanmoins, lors de l'ouverture, ces problèmes ont été résolus et l'œuvre s'est nettement améliorée. Pour réaliser le projet, les étudiants ont dû utiliser leurs connaissances en vidéo, audio et traitement audiovisuel. L'utilisation du transfert de données à travers était très intéressante. Cependant, je classe Effet-Papillon en dernier en raison de ses nombreux problèmes.
 
 
 <br><br><br><br><br>
@@ -35,7 +34,8 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
  - Ghita Alaoui
  - Vincent Desjardins
 
-À mes yeux, Sonalux avait pour but de démontrer la croissance en ayant le pouvoir sur le volume, la vitesse et le tempo. Donc fait partis du thème de la croissance. Lors du visonnement des vidéos, j'ai comrpis leur idées, mais lors de l'avant première, le projet n'était totalement finis donc je ne compronnais pas toute le projet. Toutfois, l'ouverture a tout changé et il on incrémenter de nombreux éléments aidant à la comprhéension du projet. Les connaissances acquises dans les cours de vidéos, audio et traitement audiovisuel ont été de mise lors du travail. 
+
+À mes yeux, Sonalux visait à démontrer la croissance en contrôlant le volume, la vitesse et le tempo, ce qui s'inscrit dans le thème de la croissance. Lors du visionnage des vidéos, j'ai compris leurs idées, mais lors de l'avant-première, le projet n'était pas totalement terminé, donc je n'ai pas saisi toute l'étendue du projet. Cependant, lors de l'ouverture, de nombreux éléments ont été ajoutés, ce qui a facilité la compréhension du projet. Les connaissances acquises dans les cours de vidéo, audio et traitement audiovisuel ont été essentielles pour le travail. L'utilisation de la lumière pour afficher l'intensité du son était intéressante et m'a inspiré pour mes futurs projets. Cependant, Sonalux se classe quatrième en raison de son manque de rejouabilité.
 
 # Canevas Cosmique
 Canevas Cosmique est une installation intéractive conçu par 5 étudiants
@@ -45,7 +45,7 @@ Canevas Cosmique est une installation intéractive conçu par 5 étudiants
 - Quoc Huy Do
 - Mikaël Tourangeau
 
-À mon sens, 
+À mon sens, Canevas Cosmique visait à donner au joueur un pouvoir, celui de controler une galaxie. Cependant, je ne vois pas reellement le lien avec la croissance. Lors de l'avant première, le projet était presque parfait, mais manquait des petits éléments pour le rendre meilleur. Cependant lors de l'ouverture, les étudiants ont réglé tous les problèmes et on facilité l'experience utilisateur en tranformer les code QR en figurine. Les connaisances aquisent en programmation, animation et traitement audivisuel ont été essentiel pour le travail. l'utilisateur de code QR pour la dectection d'élément était ingénieux et très innovateur. Grâce a leurs gros travails, je classe Canevas Cosmique deuxième dans l'exposition.
 
 
 
