@@ -1,1 +1,1 @@
-Ce dossier contient les photos pour l'exposiotn de Crescentia
+Ce dossier contient les photos pour l'exposition de Crescentia
