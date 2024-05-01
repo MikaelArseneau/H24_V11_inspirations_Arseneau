@@ -19,6 +19,7 @@ Cartel
  # Composantes et éléments
 
  Pour présenter l'œuvre à la Galerie Elektra, un espace suffisamment spacieux dans le bâtiment a été réservé exclusivement pour elle. La galerie a ensuite été installé des murs noirs entourant la pièce ainsi que des télévisions pour afficher les œuvres. Yan Breleux, de son côté, a apporté les fichiers pour publier les œuvres sur les télévisions. La pièce ne comporte aucun haut-parleur, et rien n'est fixé au sol. Tous les fils électriques sont couverts par les murs noirs. En son centre, trône un petit canapé, invitant les spectateurs à s'asseoir et à contempler les œuvres. Les télévisions sont disposées de manière à ce que quatre soient du côté gauche, une devant et une à droite.
+ ## Exposition (vues des oeuvres)
  <p align="left"> <img align="left" width="300" height="375" src="media/television_matiere.jpg">
   <p align="right"> <img align="left" width="300" height="375" src="media/television2_matiere.jpg">
    <p align="right"> <img align="left" width="300" height="375" src="media/television3_matiere.jpg">
@@ -28,8 +29,8 @@ Cartel
 
 
 
- <br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br>   <br><br><br><br><br><br><br><br>   <br><br><br><br>
- # Epérience vécue
+ <br><br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ # Expérience vécue
 
 Quand vous entrez dans l'œuvre, vous êtes immédiatement frappé par les six écrans, mis en évidence par le contraste avec les murs noirs. Les changements dans les œuvres sont presque imperceptibles au début, mais dès que vous vous approchez, vous commencez à remarquer des modifications extrêmement subtiles.
 
@@ -39,5 +40,5 @@ Personnellement, je n'ai pas été pleinement satisfait par l'œuvre. Tout d'abo
 
   ## Source
 
-  Photographe :Mikael Arseneau
-  Lieu: Galerie Elektra
+  - Photographe :Mikael Arseneau
+  - Lieu : [Elektra](https://www.elektramontreal.ca/yan-breuleux)
