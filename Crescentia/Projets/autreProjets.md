@@ -30,6 +30,7 @@ Effet-Papillon est une installation intereactive immersive conçu par 6 étudian
 
 <p align="left"> <img align="left" width="300" height="200" src="../media/dessin_papillon.png">
 <p align="left"> <img align="left" width="300" height="200" src="../media/oeuvre_papillon.jpg">
+ 
   Lien vers le site : [Effet-papillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
 
 <br><br><br><br><br><br><br><br><br>
