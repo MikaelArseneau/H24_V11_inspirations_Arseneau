@@ -45,7 +45,7 @@ Canevas Cosmique est une installation intéractive conçu par 5 étudiants
 - Quoc Huy Do
 - Mikaël Tourangeau
 
-À mon sens, Canevas Cosmique visait à donner au joueur un pouvoir, celui de controler une galaxie. Cependant, je ne vois pas reellement le lien avec la croissance. Lors de l'avant première, le projet était presque parfait, mais manquait des petits éléments pour le rendre meilleur. Cependant lors de l'ouverture, les étudiants ont réglé tous les problèmes et on facilité l'experience utilisateur en tranformer les code QR en figurine. Les connaisances aquisent en programmation, animation et traitement audivisuel ont été essentiel pour le travail. l'utilisateur de code QR pour la dectection d'élément était ingénieux et très innovateur. Grâce a leurs gros travails, je classe Canevas Cosmique deuxième dans l'exposition.
+À mon avis, Canevas Cosmique avait pour objectif de conférer au joueur un pouvoir, celui de contrôler une galaxie. Cependant, je ne vois pas vraiment le lien avec le thème de la croissance. Lors de l'avant-première, le projet était presque parfait, mais manquait de petits éléments pour le rendre meilleur. Cependant, lors de l'ouverture, les étudiants ont résolu tous les problèmes et ont facilité l'expérience utilisateur en transformant les codes QR en figurines. Les connaissances acquises en programmation, animation et traitement audiovisuel ont été essentielles pour le travail. L'utilisation de codes QR pour la détection d'éléments était ingénieuse et très innovante. Grâce à leur travail approfondi, je classe Canevas Cosmique deuxième dans l'exposition.
 
 
 
