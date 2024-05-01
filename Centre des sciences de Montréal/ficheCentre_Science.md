@@ -34,3 +34,7 @@ Lorsque vous vous approchez du mur, vous remarquez immédiatement les traces de 
 
 
 Ce qui m'a le plus intrigué, c'est l'effet de surprise lorsque nous posions notre pied sur la plaque, ressentant immédiatement le vent et comprenant alors le fonctionnement de l'œuvre. Cependant, contrairement aux autres œuvres de l'exposition, celle-ci m'a semblé devenir redondante après la première expérience, car elle offre une expérience similaire à chaque interaction.
+
+ ## Source 
+- Photographe : Mikael Arseneau
+- Lieu : [Centre des sciences](https://www.centredessciencesdemontreal.com/)
