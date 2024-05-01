@@ -3,6 +3,7 @@
 ### Le centre des sciences positionnée au 2 Rue de la Commune O, Montréal, présente l'exposition explore.
 
 <p align="left"> <img align="left" width="400" height="300" src="media/devant_centre.jpg">
+ <p align="right"> <img align="left" width="400" height="300" src="media/panneau_science.jpg">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Description
